@@ -34,7 +34,8 @@ A collection of useful links when thinking about AI and accessibility. These res
 
 This is not specific to accessibility but most, if not all the concepts are transferable to accessibility.
 
-## Other articles and presentations worth watching
+## Other articles and presentations worth reading
 
 * [Setting expectations for asking ChatGPT web accessibility questions](https://www.scottohara.me/blog/2023/01/31/ai-a11y-maybe-no.html)
 * [Having an AI dialog](https://www.scottohara.me/blog/2023/02/17/an-ai-dialog.html)
+* [AI? Artificial Intelligence? Accessible Intelligence!](https://www.deque.com/blog/ai-artificial-intelligence-accessible-intelligence/)
