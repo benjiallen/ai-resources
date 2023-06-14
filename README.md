@@ -22,6 +22,8 @@ A collection of useful links when thinking about AI and accessibility. These res
 
 * [Opportunities and Challenges of AI for Accessibility - Cynthia Bennett and Shari Trewin](https://www.youtube.com/watch?v=i3IIrBhNUwA&t=0s)
 * [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit/) Hands-on tools for AI builders to create effective and responsible human-AI experiences
+* [Microsoft Responsible AI Impact Assessment Template](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFk)
+* [Microsoft Responsible AI resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
 
 ## Demo videos
 
